@@ -22,6 +22,9 @@ int main()
 	cout << "enter row number followed by col number " << endl;
 	cin >> row >> col;
 
+	cout << " ***Information***\n";
+	cout << " Point that was visited will be marked as '$'";
+	cout<<" Walls are marked as *\n";
 	if (row > MAX_ROW_SIZE || col > MAX_COL_SIZE) {
 		cout << "Invalid input";
 		exit(1);

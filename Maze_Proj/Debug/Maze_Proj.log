@@ -1,0 +1,9 @@
+﻿  Cube.cpp
+  Main.cpp
+c:\users\akart\source\repos\maze_proj\maze_proj\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Maze.cpp
+  Node.cpp
+  Queue.cpp
+  Stack.cpp
+  Generating Code...
+  Maze_Proj.vcxproj -> C:\Users\akart\source\repos\Maze_Proj\Debug\Maze_Proj.exe

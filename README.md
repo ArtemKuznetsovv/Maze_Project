@@ -9,8 +9,8 @@
 
  ### In this project you decide !
 
- * Build you'r own maze with supplied col number and row numbers *
- * Or let us build a random maze for you , with supplied row number and col number *
+ * Build you'r own maze with supplied col number and row numbers 
+ * Or let us build a random maze for you , with supplied row number and col number 
  
  ## From this project i learned : 
  
